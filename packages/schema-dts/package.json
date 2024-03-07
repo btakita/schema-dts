@@ -1,13 +1,15 @@
 {
-  "name": "schema-dts",
-  "version": "1.1.3",
+  "name": "@btakita/schema-dts",
+  "version": "1.1.3-patch",
   "displayName": "schema-dts: Strongly-typed Schema.org vocabulary declarations",
   "description": "A TypeScript package with latest Schema.org Schema Typings",
   "author": "Eyas Sharaiha <eyas@google.com> (https://eyas.sh/)",
   "maintainers": [
+    "Brian Takita <brian@briantakita.me> (https://briantakita.me/)",
     "Eyas Sharaiha <npm@eyas.sh> (https://eyas.sh/)"
   ],
   "contributors": [
+    "Brian Takita <brian@briantakita.me> (https://briantakita.me/)",
     "Eyas Sharaiha <npm@eyas.sh> (https://eyas.sh/)"
   ],
   "files": [
@@ -36,11 +38,11 @@
     "structured data",
     "structured-data"
   ],
-  "homepage": "https://opensource.google/projects/schema-dts",
-  "bugs": "https://github.com/google/schema-dts/issues",
+  "homepage": "https://github.com/btakita/schema-dts",
+  "bugs": "https://github.com/btakita/schema-dts/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/schema-dts.git",
+    "url": "https://github.com/btakita/schema-dts.git",
     "directory": "packages/schema-dts"
   },
   "scripts": {
